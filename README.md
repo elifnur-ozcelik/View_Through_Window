@@ -15,17 +15,11 @@ This project is developed using OpenGL and the GLUT library. It creates a window
 
 Here are some screenshots of the project:
 
-![View Window Screenshot 0](view_window_screenshot_0.png)  
+![View Window Screenshot 0](view_window_screenshot_0.png.png)  
 *Screenshot showing the UFO in motion.*
 
-![View Window Screenshot 1](view_window_screenshot_1.png)  
+![View Window Screenshot 1](view_window_screenshot_1.png.png)  
 *Another screenshot showing the UFO's movement.*
-
-## Video
-
-You can watch a video demonstration of the project here:
-
-[View Window Video](view_window_video)
 
 ## License
 
